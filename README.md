@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Markdown-2D2D2D?style=for-the-badge&logo=markdown&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Verilog-34495E?style=for-the-badge&logo=verilog&logoColor=white"/>
 ### Tools & IDE
-
+-
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/LTspice-800020?style=for-the-badge&logo=LTspice&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white"/></a>
 
 
-
+### development environment
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>
