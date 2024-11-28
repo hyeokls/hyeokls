@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/LTspice-800020?style=flat-square&logo=LTspice&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252"/></a>
-<img src="https://img.shields.io/badge/SynopsysTool?&style=flat-square&logo=Synopsys&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=fflat-square&logo=visual%20studio%20code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Synopsys-000000?&style=flat-square&logo=Synopsys&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"/></a>
 
 ---
 
